@@ -1,0 +1,25 @@
+  [1m[35m (752.2ms)[0m  [1m[35mCREATE DATABASE "taskleaf_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (362.0ms)[0m  [1m[35mCREATE DATABASE "taskleaf_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+Started GET "/" for ::1 at 2021-03-21 15:58:13 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kai120626/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.4.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kai120626/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.4.5/lib/rails/templates/rails/welcome/index.html.erb (3.9ms)
+Completed 200 OK in 16ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2021-03-21 15:59:02 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kai120626/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.4.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kai120626/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.4.5/lib/rails/templates/rails/welcome/index.html.erb (4.8ms)
+Completed 200 OK in 10ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2021-03-25 14:03:18 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kai120626/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.4.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kai120626/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.4.5/lib/rails/templates/rails/welcome/index.html.erb (6.4ms)
+Completed 200 OK in 37ms (Views: 23.5ms | ActiveRecord: 0.0ms)
+
+
